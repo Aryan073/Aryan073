@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+About me 
+I'm a passionate student currently enrolled at NAIT, diving headfirst into the exciting world of web design and development. With an insatiable curiosity and a love for coding, I find immense joy in bringing digital ideas to life through creative and functional design.
+
+My interests:
+Beyond the realm of pixels and code, I'm a fervent enthusiast of both physical and virtual activities. Sports have always been a big part of my life, whether it's the adrenaline rush of a competitive game on the field or the camaraderie forged through teamwork. When I'm not honing my skills in web design, you'll likely find me on a basketball court, soccer field, or maybe even trying out a new fun sport.
+
+Gaming Passion:
+And let's not forget about my love for video games! From epic adventures to strategic battles, gaming provides me with an immersive escape into fantastical worlds where I can explore, compete, and connect with friends across the globe. Whether it's a captivating single-player storyline or an intense multiplayer showdown, gaming fuels my imagination and offers endless hours of excitement and entertainment.
+
+In essence, I thrive on the dynamic balance between the digital and physical realms, constantly seeking new challenges and experiences both in code and in life. Feel free to reach out if you share similar interests or if you just want to chat about the latest web design trends or gaming releases! 🚀🎮
 <!--
 **Aryan073/Aryan073** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
